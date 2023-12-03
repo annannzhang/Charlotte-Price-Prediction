@@ -7,6 +7,7 @@ output:
     toc: true
     toc_float: true
     code_folding: hide
+    theme: lumen
     css:
 editor_options: 
   markdown: 
